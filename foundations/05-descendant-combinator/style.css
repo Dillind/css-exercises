@@ -1,0 +1,14 @@
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* You can also do the following in place of ".container .text":
+
+- div p
+- div .text
+- .container p 
+
+*/
