@@ -6,6 +6,7 @@ body {
 img {
   width: 100px;
   height: 100px;
+  border: 10px solid pink
 }
 
 .title {
@@ -18,11 +19,13 @@ img {
   display: flex;
   justify-content: center;
   gap: 52px;
+  border: 10px solid green;
 
 }
 
 .info {
   max-width: 200px;
+  border: 10px solid black;
 }
 
 /* do not edit this footer */
